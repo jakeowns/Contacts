@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_message">First Lastname</string>
+    <string name="phone_number_message">Phone Number</string>
+    <string name="email_message">Email</string>
+    <string name="address_message">Address</string>
+    <string name="notes_message">Notes</string>
+    <string name="button_save">Save</string>
+    <string name="button_delete">Delete</string>
+</resources>
